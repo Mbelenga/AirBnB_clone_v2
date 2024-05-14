@@ -11,7 +11,7 @@ from datetime import datetime
 
 
 # Set the host IP
-env.hosts = ['54.157.141.67', '100.25.169.176']
+env.hosts = ['3.89.155.130', '100.25.211.26']
 
 
 def do_pack():
