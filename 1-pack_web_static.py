@@ -16,4 +16,3 @@ def do_pack():
     result = local("sudo tar -cvzf {} web_static".format(file_archive))
     if result.succeeded:
         return file_archive
-
